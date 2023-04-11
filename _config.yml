@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiangui Chen"
+title                    : "Yu-An Liu"
 title_separator          : "-"
-name                     : &name "Jiangui Chen"
+name                     : &name "Yu-An Liu"
 description              : &description "CS Ph.D. Candidate at ICT, CAS"
-url                      : https://chriskuei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://davion-liu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chriskuei/chriskuei.github.io"
+repository               : "davion-liu/davion-liu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiangui Chen"
+  name             : "Yu-An Liu"
   avatar           : "cartoon.png"
   bio              : "CS Ph.D. Candidate at ICT, CAS"
   location         : "Beijing, China"
   employer         :  
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=wKxO240AAAAJ"
-  email            : "chenjiangui@outlook.com"
+  googlescholar    : "https://scholar.google.com/citations?user=C2ozNIMAAAAJ&hl=zh-CN"
+  email            : "liuyuan21b@ict.ac.cn"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "chriskuei"
+  github           : "davion-liu"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Chriskuei_"
+  twitter          : "liu_davion"
   vine             :
   weibo            :
   xing             :
