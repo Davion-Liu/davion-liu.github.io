@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yu-An Liu"
 title_separator          : "-"
 name                     : &name "Yu-An Liu"
-description              : &description "CS Ph.D. Candidate at ICT, CAS"
+description              : &description "CS Ph.D. Student at Institute of Computing Technology, Chinese Academy of Science (ICT,CAS)"
 url                      : https://davion-liu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "davion-liu/davion-liu.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yu-An Liu"
+  name             : "Yu-An Liu (刘雨桉)"
   avatar           : "liuyuan.jpg"
-  bio              : "CS Ph.D. Candidate at ICT, CAS"
+  bio              : "CS Ph.D. Student at Institute of Computing Technology, Chinese Academy of Science (ICT,CAS)"
   location         : "Beijing, China"
   employer         :  
   pubmed           : 
