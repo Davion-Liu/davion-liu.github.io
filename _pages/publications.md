@@ -16,13 +16,13 @@ redirect_from:
 2022
 ------
 1. **Micro-influencer Recommendation by Multi-perspective Account Representation Learning** 
-[[PDF](*)] <br>
+[[PDF](https://github.com/Davion-Liu/davion-liu.github.io/blob/main/papers/Revision-Micro_influencer_Recommendation_by_Multi_perspective_Account_Representation_Learning.pdf)] <br>
 Shaokun Wang, Tian Gan, <ins>Yu-An Liu</ins>, Jianlong Wu, Yuan Cheng, Liqiang Nie <br>
 **TMM**: IEEE Transactions on Multimedia
 
 2021
 ------
 1. **Discover Micro-Influencers for Brands via Better Understanding** 
-[[PDF](**)] <br>
+[[PDF](https://github.com/Davion-Liu/davion-liu.github.io/blob/main/papers/Revision-Discover%20Micro-influencers%20for%20Brands%20via%20Better%20Understanding.pdf)] <br>
 Shaokun Wang, Tian Gan, <ins>Yu-An Liu</ins>, Li Zhang, JianLong Wu, Liqiang Nie <br>
 **TMM**: IEEE Transactions on Multimedia
