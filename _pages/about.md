@@ -40,5 +40,5 @@ Hornors and Awards
 }
 </style>
 <div class="container">
-  <a href='https://clustrmaps.com/site/1bjbx' title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=m&d=3hOKfeexZUdpSFmQcZ-RNPDNW3WVv9ducU6gljhPy_M&co=a2acb3&ct=ffffff'/></a>
+  <a href="https://clustrmaps.com/site/1butl"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=cNpbKXQbQilhtxwlW9fEnpgEGvCSLABz-TtkmvuNLNI&cl=ffffff" /></a>
 </div>
