@@ -19,7 +19,7 @@ Contact me via email if you have any interest in discussing/working/cooperating 
 
 <span style="color:#2561a0">News and Events</span>
 ------
-  * [Apr. 2023] Invited talk "*", at *, Beijing.
+  * [May 2023] Invited talk "Adversarial Information Retrieval", at Gaoling School of Artificial Intelligence, Renmin University of China, Beijing.
 
 Education
 ------
