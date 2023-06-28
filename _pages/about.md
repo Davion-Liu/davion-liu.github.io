@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a second-year Ph.D. student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/). I am a member of [CAS Key Lab of Web Data Science and Technology](http://www.bigdatalab.ac.cn/). My research interests lie in the robustness of Information Retrieval (IR), with a special focus on adversarial attack, adversarial defense and out-of-distribution in IR.
+I am a second-year Ph.D. student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/). I am a member of [CAS Key Lab of Web Data Science and Technology](http://www.bigdatalab.ac.cn/). My research interests lie in the robustness and safety of Information Retrieval (IR), with a special focus on adversarial attack, adversarial defense and out-of-distribution in IR.
 
 Contact me via email if you have any interest in discussing/working/cooperating with me.
 
@@ -20,6 +20,7 @@ Contact me via email if you have any interest in discussing/working/cooperating 
 <span style="color:#2561a0">News and Events</span>
 ------
   * [May 2023] Invited talk "Adversarial Information Retrieval", at Gaoling School of Artificial Intelligence, Renmin University of China, Beijing.
+  * [Jun. 2023] Invited talk "Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models", at AIS 2023, Hunan, Changsha.
 
 Education
 ------
@@ -32,6 +33,10 @@ Education
 Hornors and Awards
 ------
   * Outstanding Undergraduate Award, 2021
+
+Academic Services
+------
+  * PC Member: CIKM2023
 
 <style>
 .container{
