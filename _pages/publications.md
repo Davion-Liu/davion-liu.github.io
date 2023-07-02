@@ -9,8 +9,13 @@ redirect_from:
 2023
 ------
 1. **Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models** 
-[[PDF](*)] <br>
+[[PDF](https://arxiv.org/pdf/2304.14867)] <br>
 <ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan, Xueqi Cheng <br>
+**Gen-IR'2023**: The First Workshop on Generative Information Retrieval
+
+2. **On the Robustness of Generative Retrieval Models: An Out-of-Distribution Perspective** 
+[[PDF](https://arxiv.org/pdf/2306.12756)] <br>
+<ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Wei Chen, Xueqi Cheng <br>
 **SIGIR'2023**: Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 2022
