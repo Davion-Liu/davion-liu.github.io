@@ -15,8 +15,9 @@ Contact me via email if you have any interest in discussing/working/cooperating 
 
 <span style="color:#2561a0">Highlight</span>
 ------
-  * [A curated list of awesome papers on adversarial attacks and defenses for IR](https://github.com/Davion-Liu/Awesome-Adversarial-Attacks-and-Defenses-for-Information-Retrieval)
-  * [A curated list of awesome papers on information retrieval in the age of large language model](https://github.com/IR-LLM/Awesome-Information-Retrieval-in-the-Age-of-Large-Language-Model)
+  * **Curated lists of awesome papers**
+    * [Adversarial Attacks and Defenses for IR](https://github.com/Davion-Liu/Awesome-Adversarial-Attacks-and-Defenses-for-Information-Retrieval)
+    * [Information Retrieval in the Age of Large Language Model](https://github.com/IR-LLM/Awesome-Information-Retrieval-in-the-Age-of-Large-Language-Model)
 
 <span style="color:#2561a0">News and Events</span>
 ------
