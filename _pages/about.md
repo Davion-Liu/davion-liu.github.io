@@ -16,6 +16,7 @@ Contact me via email if you have any interest in discussing/working/cooperating 
 <span style="color:#2561a0">Highlight</span>
 ------
   * [A curated list of awesome papers on adversarial attacks and defenses for IR](https://github.com/Davion-Liu/Awesome-Adversarial-Attacks-and-Defenses-for-Information-Retrieval)
+  * [A curated list of awesome papers on information retrieval in the age of large language model](https://github.com/IR-LLM/Awesome-Information-Retrieval-in-the-Age-of-Large-Language-Model)
 
 <span style="color:#2561a0">News and Events</span>
 ------
@@ -30,13 +31,13 @@ Education
   * **Shandong University**
     * B.E. in Computer Science, 2017 - 2021
 
-Hornors and Awards
+Honours and Awards
 ------
   * Outstanding Undergraduate Award, 2021
 
 Academic Services
 ------
-  * PC Member: CIKM2023
+  * PC Member: CIKM2023, WSDM2023, AAAI2024
 
 <style>
 .container{
