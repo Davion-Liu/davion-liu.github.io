@@ -32,7 +32,7 @@ Education
   * **Shandong University**
     * B.E. in Computer Science, 2017 - 2021
 
-Honours and Awards
+Honors and Awards
 ------
   * Outstanding Undergraduate Award, 2021
 
