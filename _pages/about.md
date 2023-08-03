@@ -28,7 +28,7 @@ Education
 ------
   * **Institute of Computing Technology, Chinese Academy of Sciences**
     * Ph.D. in Computer Science, 2021 - present
-    * Advisor: Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/)
+    * Advisor: Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/) and Prof. [Wei Chen](https://weichen-cas.github.io/)
   * **Shandong University**
     * B.E. in Computer Science, 2017 - 2021
 
