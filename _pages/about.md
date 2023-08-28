@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-
-I am a second-year Ph.D. student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/). I am a member of [CAS Key Lab of Web Data Science and Technology](http://www.bigdatalab.ac.cn/). My research interests lie in the robustness and safety of Information Retrieval (IR), with a special focus on adversarial attack, adversarial defense and out-of-distribution in IR.
+---
+I am a third-year Ph.D. student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/). I am a member of [CAS Key Lab of Web Data Science and Technology](http://www.bigdatalab.ac.cn/). My research interests lie in the robustness and safety of Information Retrieval (IR), with a special focus on adversarial attack, adversarial defense and out-of-distribution in IR.
+---
+I am a researcher at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/). I am a member of [CAS Key Lab of Web Data Science and Technology](http://www.bigdatalab.ac.cn/). My research interests lie in the robustness and safety of Information Retrieval (IR), with a special focus on adversarial attack, adversarial defense and out-of-distribution in IR.
 
 Contact me via email if you have any interest in discussing/working/cooperating with me.
 
