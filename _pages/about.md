@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a researcher at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/). I am a member of [CAS Key Lab of Web Data Science and Technology](http://www.bigdatalab.ac.cn/). My research interests lie in the robustness and safety of Information Retrieval (IR), with a special focus on adversarial attack, adversarial defense and out-of-distribution in IR.
+I am a third-year Ph.D. student at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/) and Prof. [Wei Chen](https://weichen-cas.github.io/). I am a member of [CAS Key Lab of Web Data Science and Technology](http://www.bigdatalab.ac.cn/). My research interests lie in the robustness and safety of Information Retrieval (IR), with a special focus on adversarial attack, adversarial defense, and out-of-distribution in IR.
 
 Contact me via email if you have any interest in discussing/working/cooperating with me.
 
@@ -27,7 +27,7 @@ Contact me via email if you have any interest in discussing/working/cooperating 
 Education
 ------
   * **Institute of Computing Technology, Chinese Academy of Sciences**
-    * Researcher in Computer Science, 2021 - present
+    * Ph.D. in Computer Science, 2021 - present
     * Advisor: Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/) and Prof. [Wei Chen](https://weichen-cas.github.io/)
   * **Shandong University**
     * B.E. in Computer Science, 2017 - 2021
@@ -38,7 +38,7 @@ Honors and Awards
 
 Academic Services
 ------
-  * PC Member: CIKM2023, WSDM2023, AAAI2024
+  * PC Member: CIKM2023, WSDM2024, AAAI2024
 
 <style>
 .container{
