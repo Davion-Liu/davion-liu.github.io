@@ -42,7 +42,7 @@ Academic Services
 
 <style>
 .container{
-  width: 100%;
+  width: 20%;
   text-align: center;
 }
 </style>
