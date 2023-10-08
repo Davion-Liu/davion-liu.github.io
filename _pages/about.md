@@ -47,5 +47,5 @@ Academic Services
 }
 </style>
 <div class="container">
-  <a href="https://clustrmaps.com/site/1butl"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=cNpbKXQbQilhtxwlW9fEnpgEGvCSLABz-TtkmvuNLNI&cl=ffffff" /></a>
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cNpbKXQbQilhtxwlW9fEnpgEGvCSLABz-TtkmvuNLNI&cl=ffffff&w=a"></script>
 </div>
