@@ -22,18 +22,18 @@ redirect_from:
 3. **On the Robustness of Generative Retrieval Models: An Out-of-Distribution Perspective** 
 [[PDF](https://arxiv.org/pdf/2306.12756)] <br>
 <ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Wei Chen, Xueqi Cheng <br>
-**Gen-IR'2023**: The First Workshop on Generative Information Retrieval
+**Gen-IR'2023**: [The First Workshop on Generative Information Retrieval](https://coda.io/@sigir/gen-ir)
 
 2022
 ------
 1. **Micro-influencer Recommendation by Multi-perspective Account Representation Learning** 
-[[PDF](https://github.com/Davion-Liu/davion-liu.github.io/blob/main/papers/Revision-Micro_influencer_Recommendation_by_Multi_perspective_Account_Representation_Learning.pdf)] <br>
+[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9712372)] <br>
 Shaokun Wang, Tian Gan, <ins>Yu-An Liu</ins>, Jianlong Wu, Yuan Cheng, Liqiang Nie <br>
-**TMM**: IEEE Transactions on Multimedia
+**IEEE TMM**: IEEE Transactions on Multimedia
 
 2021
 ------
 1. **Discover Micro-Influencers for Brands via Better Understanding** 
-[[PDF](https://github.com/Davion-Liu/davion-liu.github.io/blob/main/papers/Revision-Discover%20Micro-influencers%20for%20Brands%20via%20Better%20Understanding.pdf)] <br>
+[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9454334)] <br>
 Shaokun Wang, Tian Gan, <ins>Yu-An Liu</ins>, Li Zhang, JianLong Wu, Liqiang Nie <br>
-**TMM**: IEEE Transactions on Multimedia
+**IEEE TMM**: IEEE Transactions on Multimedia
