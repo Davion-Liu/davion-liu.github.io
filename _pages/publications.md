@@ -22,7 +22,7 @@ redirect_from:
 3. **On the Robustness of Generative Retrieval Models: An Out-of-Distribution Perspective** 
 [[PDF](https://arxiv.org/pdf/2306.12756)] <br>
 <ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Wei Chen, Xueqi Cheng <br>
-**Gen-IR'2023**: [The First Workshop on Generative Information Retrieval](https://coda.io/@sigir/gen-ir)
+**Gen-IR workshop at SIGIR'2023**: [The First Workshop on Generative Information Retrieval](https://coda.io/@sigir/gen-ir)
 
 2022
 ------
