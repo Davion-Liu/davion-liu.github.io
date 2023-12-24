@@ -16,12 +16,12 @@ IN THE YEAR OF 2024
 IN THE YEAR OF 2023
 ------
 1. **Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models** 
-[[PDF](https://arxiv.org/pdf/2304.14867)] <br>
+[[PDF](https://dl.acm.org/doi/pdf/10.1145/3539618.3591777)] <br>
 <ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng <br>
 **SIGIR'2023**: Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 2. **Black-box Adversarial Attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method** 
-[[PDF](https://arxiv.org/pdf/2304.14867)] <br>
+[[PDF](https://dl.acm.org/doi/pdf/10.1145/3583780.3614793)] <br>
 <ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng <br>
 **CIKM'2023**: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management
 
