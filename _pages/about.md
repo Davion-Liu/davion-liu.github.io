@@ -23,6 +23,8 @@ Contact me via email if you have any interest in discussing/working/cooperating 
 ------
   * [May 2023] Invited talk "Adversarial Information Retrieval", at Gaoling School of Artificial Intelligence, Renmin University of China, Beijing.
   * [Jun. 2023] Invited talk "Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models", at AIS 2023, Hunan, Changsha.
+  * [Jul. 2023] Invited talk "Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models", at SIGIR 2023, Taiwan, China.
+  * [Oct. 2023] Invited talk "Black-box Adversarial Attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method", at CIKM 2023, Birmingham, UK.
 
 Education
 ------
@@ -38,7 +40,7 @@ Honors and Awards
 
 Academic Services
 ------
-  * PC Member: CIKM2023, WSDM2024, AAAI2024
+  * PC Member: CIKM2023, WSDM2024, AAAI2024, IJCAI2024
 
 <style>
 .container{
