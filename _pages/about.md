@@ -40,7 +40,7 @@ Honors and Awards
 
 Academic Services
 ------
-  * PC Member: CIKM2023, WSDM2024, AAAI2024, IJCAI2024
+  * PC Member: CIKM2023, WSDM2024, AAAI2024, IJCAI2024, CIKM2024
 
 <style>
 .container{
