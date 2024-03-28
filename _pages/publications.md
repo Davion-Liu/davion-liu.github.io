@@ -9,7 +9,7 @@ redirect_from:
 IN THE YEAR OF 2024
 ------
 1. **Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off** 
-[[PDF](https://arxiv.org/pdf/2312.10329)] <br>
+[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28730/29409)] <br>
 <ins>**Yu-An Liu**</ins>, Ruqing Zhang, Mingkun Zhang, Wei Chen, Maarten de Rijke, Jiafeng Guo and Xueqi Cheng <br>
 **AAAI'2024**: The 38th Annual AAAI Conference on Artificial Intelligence
 
