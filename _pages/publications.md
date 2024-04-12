@@ -14,7 +14,7 @@ IN THE YEAR OF 2024
 **AAAI'2024**: The 38th Annual AAAI Conference on Artificial Intelligence
 
 2. **Multi-granular Adversarial Attacks against Black-box Neural Ranking Models** 
-[[PDF](https://dl.acm.org/doi/pdf/10.1145/3539618.3591777)] <br>
+[[PDF](http://arxiv.org/abs/2404.01574)] <br>
 <ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng <br>
 **SIGIR'2024**: Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
