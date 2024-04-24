@@ -21,6 +21,7 @@ Contact me via email if you have any interest in discussing/working/cooperating 
 
 <span style="color:#2561a0">News and Events</span>
 ------
+  * I will co-organize two tutorials on "Robust Information Retrieval" and "Generative Information Retrieval" at SIGIR 2024. Looking forward to seeing you in Washington!
   * [May 2023] Invited talk "Adversarial Information Retrieval", at Gaoling School of Artificial Intelligence, Renmin University of China, Beijing.
   * [Jun. 2023] Invited talk "Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models", at AIS 2023, Hunan, Changsha.
   * [Jul. 2023] Invited talk "Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models", at SIGIR 2023, Taiwan, China.
@@ -40,7 +41,7 @@ Honors and Awards
 
 Academic Services
 ------
-  * PC Member: CIKM2023, WSDM2024, AAAI2024, IJCAI2024, CIKM2024
+  * PC Member: CIKM2023, WSDM2024, AAAI2024, IJCAI2024, SIGIR2024, CIKM2024
 
 <style>
 .container{
