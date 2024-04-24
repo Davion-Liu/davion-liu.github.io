@@ -18,6 +18,7 @@ Contact me via email if you have any interest in discussing/working/cooperating 
   * **Curated lists of awesome papers**
     * [Robustness, Adversarial Attacks and Defenses for IR](https://github.com/Davion-Liu/Awesome-Robustness-Adversarial-Attacks-and-Defenses-for-Information-Retrieval)
     * [Information Retrieval in the Age of Large Language Model](https://github.com/IR-LLM/Awesome-Information-Retrieval-in-the-Age-of-Large-Language-Model)
+    * [Awesome Papers for RAG](https://github.com/gomate-community/awesome-papers-for-rag?tab=readme-ov-file)
 
 <span style="color:#2561a0">News and Events</span>
 ------
