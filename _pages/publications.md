@@ -18,6 +18,11 @@ IN THE YEAR OF 2024
 <ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng <br>
 **SIGIR'2024**: Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
+3. **Robust Information Retrieval** (Tutorial)
+[[PDF](http://arxiv.org/abs/2404.01574)] <br>
+<ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke <br>
+**SIGIR'2024**: Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
+
 IN THE YEAR OF 2023
 ------
 1. **Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models** 
