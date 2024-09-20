@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a third-year Ph.D. student at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/). I am a member of [CAS Key Lab of Web Data Science and Technology](http://www.bigdatalab.ac.cn/). My research interests lie in the robustness of Information Retrieval (IR), with a special focus on adversarial and out-of-distribution perspectives.
+I am a fourth-year Ph.D. student at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/). I am a member of [CAS Key Lab of Web Data Science and Technology](http://www.bigdatalab.ac.cn/). My research interests lie in the robustness of Information Retrieval (IR), with a special focus on adversarial and out-of-distribution perspectives.
 
 Contact me via email if you have any interest in discussing/working/cooperating with me.
 
@@ -22,11 +22,11 @@ Contact me via email if you have any interest in discussing/working/cooperating 
 
 <span style="color:#2561a0">News and Events</span>
 ------
-  * I will co-organize the first tutorial on "Robust Information Retrieval" at SIGIR 2024. Looking forward to seeing you in Washington!
   * [May 2023] Invited talk "Adversarial Information Retrieval", at Gaoling School of Artificial Intelligence, Renmin University of China, Beijing.
   * [Jun. 2023] Invited talk "Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models", at AIS 2023, Hunan, Changsha.
   * [Jul. 2023] Invited talk "Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models", at SIGIR 2023, Taiwan, China.
   * [Oct. 2023] Invited talk "Black-box Adversarial Attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method", at CIKM 2023, Birmingham, UK.
+  * [July 2024] I co-organized the tutorial on "<a href='https://sigir2024-robust-information-retrieval.github.io/'>Robust Information Retrieval</a>" at SIGIR 2024. The survey on robust information retrieval is available <a href='https://arxiv.org/pdf/2407.06992'>here</a>. Talks on the same topic are invited at Microsoft Core Search and Apple Search.
 
 Education
 ------
@@ -42,7 +42,8 @@ Honors and Awards
 
 Academic Services
 ------
-  * PC Member: CIKM2023, WSDM2024, AAAI2024, IJCAI2024, ACM MM2024, SIGIR2024, CIKM2024
+  * PC Member: CIKM2023, WSDM2024, AAAI2024, IJCAI2024, ACM MM2024, SIGIR2024, CIKM2024, WSDM2025, AAAI2025, TKDE
+
 
 <style>
 .container{
