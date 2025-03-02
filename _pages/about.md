@@ -38,11 +38,14 @@ Education
 
 Honors and Awards
 ------
+  * Special Prize of the President Scholarship, ICT, CAS, 2024
+  * National Scholarship, 2024
   * Outstanding Undergraduate Award, 2021
+  
 
 Academic Services
 ------
-  * PC Member: CIKM2023, WSDM2024, AAAI2024, IJCAI2024, ACM MM2024, SIGIR2024, CIKM2024, WSDM2025, AAAI2025, TKDE
+  * PC Member: CIKM2023, WSDM2024, AAAI2024, IJCAI2024, ACM MM2024, SIGIR2024, CIKM2024, WSDM2025, AAAI2025, IJCAI 2025, SIGIR 2025, TKDE
 
 
 <style>
