@@ -6,6 +6,24 @@ redirect_from:
   - /publications.html
 ---
 
+IN THE YEAR OF 2025
+------
+1. **Attack-in-the-Chain: Bootstrapping Large Language Models for Attacks Against Black-box Neural Ranking Models** 
+[[PDF](https://arxiv.org/abs/2412.18770)] <br>
+<ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke  and Xueqi Cheng <br>
+**AAAI'2025**: The 39th Annual AAAI Conference on Artificial Intelligence
+
+2. **On the Robustness of Generative Information Retrieval Models** 
+[[PDF](https://arxiv.org/abs/2412.18768)] <br>
+<ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Changjiang Zhou, Maarten de Rijke and Xueqi Cheng <br>
+**ECIR'2025**: The 47th European Conference on Information Retrieval
+
+3. **Robust Information Retrieval** (Tutorial)
+[[PDF](http://arxiv.org/abs/2404.01574)] <br>
+<ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke <br>
+**WSDM'2025**: The 18th ACM International Conference on Web Search and Data Mining
+
+
 IN THE YEAR OF 2024
 ------
 1. **Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off** 
