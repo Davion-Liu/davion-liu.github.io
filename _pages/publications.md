@@ -23,6 +23,16 @@ IN THE YEAR OF 2025
 <ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke <br>
 **WSDM'2025**: The 18th ACM International Conference on Web Search and Data Mining
 
+4. **Robust-IR @ SIGIR 2025: The First Workshop on Robust Information Retrieval** (Workshop)
+[[PDF](https://arxiv.org/abs/2503.18426)] <br>
+<ins>**Yu-An Liu**</ins>, Haya Nachimovsky, Ruqing Zhang, Oren Kurland, Jiafeng Guo, Moshe Tennenholtz <br>
+**SIGIR'2025**: The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval
+
+5. **On the Scaling of Robustness and Effectiveness in Dense Retrieval**
+[[PDF](http://arxiv.org/abs/2404.01574)] <br>
+<ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng <br>
+**SIGIR'2025**: The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval
+
 
 IN THE YEAR OF 2024
 ------
@@ -34,12 +44,12 @@ IN THE YEAR OF 2024
 2. **Multi-granular Adversarial Attacks against Black-box Neural Ranking Models** 
 [[PDF](http://arxiv.org/abs/2404.01574)] <br>
 <ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng <br>
-**SIGIR'2024**: Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
+**SIGIR'2024**: The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 3. **Robust Information Retrieval** (Tutorial)
 [[PDF](http://arxiv.org/abs/2404.01574)] <br>
 <ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke <br>
-**SIGIR'2024**: Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
+**SIGIR'2024**: The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 4. **Robust Neural Information Retrieval: An Adversarial and Out-of-distribution Perspective** (Survey)
 [[PDF](https://arxiv.org/pdf/2407.06992)] <br>
@@ -52,12 +62,12 @@ IN THE YEAR OF 2023
 1. **Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models** 
 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3539618.3591777)] <br>
 <ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng <br>
-**SIGIR'2023**: Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
+**SIGIR'2023**: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 2. **Black-box Adversarial Attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method** 
 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3583780.3614793)] <br>
 <ins>**Yu-An Liu**</ins>, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng <br>
-**CIKM'2023**: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management
+**CIKM'2023**: The 32nd ACM International Conference on Information and Knowledge Management
 
 
 3. **On the Robustness of Generative Retrieval Models: An Out-of-Distribution Perspective** 
