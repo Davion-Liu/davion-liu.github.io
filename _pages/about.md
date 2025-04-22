@@ -27,6 +27,8 @@ Contact me via email if you have any interest in discussing/working/cooperating 
   * [Jul. 2023] Invited talk "Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models", at SIGIR 2023, Taiwan, China.
   * [Oct. 2023] Invited talk "Black-box Adversarial Attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method", at CIKM 2023, Birmingham, UK.
   * [July 2024] I co-organized the tutorial on "<a href='https://sigir2024-robust-information-retrieval.github.io/'>Robust Information Retrieval</a>" at SIGIR 2024. The survey on robust information retrieval is available <a href='https://arxiv.org/pdf/2407.06992'>here</a>. Talks on the same topic are invited at Microsoft Core Search and Apple Search.
+  * [May 2025] I co-organized the tutorial on "<a href='https://wsdm2025-robust-information-retrieval.github.io/'>Robust Information Retrieval</a>" at WSDM 2025.
+  * [July 2025] I will co-organize the workshop on "<a href='https://sigir-2025-workshop-on-robust-ir.github.io/'>Robust IR @ SIGIR 2025 The First Workshop on Robust Information Retrieval</a>" at SIGIR 2025.
 
 Education
 ------
